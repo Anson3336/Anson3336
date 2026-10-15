@@ -1,5 +1,6 @@
-<h1>Hi,<br/><a href="https://github.com/Anson3336">Anson Here!
-Cybersecurity Graduate</a>, <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">Aspiring Soc Analyst</a>, IT Project Management </h1>
+<h1>Hi Anson Here,<br/><a href="https://github.com/Anson3336"></a>
+<a>Cybersecurity Graduate</a>
+<a href="https://www.linkedin.com/in/linkedin.com/in/ansonantony981/">Aspiring Soc Analyst</a>, IT Project Management </h1>
 
 <h2>🛡️ Cybersecurity Topics I've Studied:</h2>
 
